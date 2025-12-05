@@ -32,13 +32,13 @@ Lightweight notebooks analyzing **financial logic, risk, and modelling patterns*
 ## 🧰 Tech Stack & Tools
 
 **Languages:**
-`TypeScript` • `Python` • `JavaScript`
+`R` • `Python` • `SQL`
 
 **Tools & Platforms:**
 `Git` • `Jupyter Notebook` • `VS Code` • `Node.js`
 
 **Focus Areas:**
-`Fintech` • `Predictive Analytics` • `System Design` • `RegTech` • `Financial Modelling`
+`Fintech` • `Predictive Analytics` • `AI/ML` • `Predictive models` • `Financial Modelling`
 
 ---
 
