@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Akshat
 
-**Fintech Enthusiast • Systems Thinker • Builder in Public**
+**AI/ML Learner • Fintech Enthusiast • Systems Thinker • Builder Predictive Algorithm**
 
 Curiosity drives everything I build. I explore the crossroads of **finance, technology, AI/ML, and global systems**, turning ideas into small but meaningful prototypes.
 Whether it's modelling compliance flows, experimenting with predictive analytics, or rethinking user-centric fintech tools — I'm always learning, improving, and shipping.
