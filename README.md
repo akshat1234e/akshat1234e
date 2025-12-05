@@ -42,14 +42,6 @@ Lightweight notebooks analyzing **financial logic, risk, and modelling patterns*
 
 ---
 
-## 📈 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat1234e&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat1234e&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 📊 Progress & Growth Charts
 
@@ -57,12 +49,6 @@ Lightweight notebooks analyzing **financial logic, risk, and modelling patterns*
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akshat1234e&hide_border=true" height="180"/>
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat1234e&hide_border=true&bg_color=ffffff&color=000000&line=4c8eda&point=1e90ff" />
 </p>
 
 
