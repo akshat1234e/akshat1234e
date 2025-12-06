@@ -7,28 +7,6 @@
 Curiosity drives everything I build. I explore the crossroads of **finance, technology, AI/ML, and global systems**, turning ideas into small but meaningful prototypes.
 Whether it's modelling compliance flows, experimenting with predictive analytics, or rethinking user-centric fintech tools — I'm always learning, improving, and shipping.
 
----
-
-## 🚀 What I’m Building
-
-### 🔹 **BluFin360 – Futuristic Fintech Platform**
-
-Developing a modular system and a static , futuristic website — built with TypeScript.
-
-### 🔹 **ForAll – TS-first Architecture Exploration**
-
-Experimenting with **scalable, maintainable TypeScript patterns** for production-grade systems.
-
-### 🔹 **RegTech**
-
-Early-stage exploration of **automated compliance workflows** and regulatory mapping.
-
-### 🔹 **Data + Model Experiments**
-
-Lightweight notebooks analyzing **financial logic, risk, and modelling patterns**.
-
----
-
 ## 🧰 Tech Stack & Tools
 
 **Languages:**
