@@ -13,10 +13,10 @@ Whether it's modelling compliance flows, experimenting with predictive analytics
 `R` • `Python` • `SQL`
 
 **Tools & Platforms:**
-`Git` • `Jupyter Notebook` • `VS Code` • `Node.js`
+`Git` • `Jupyter Notebook` • `VS Code` 
 
 **Focus Areas:**
-`Fintech` • `Predictive Analytics` • `AI/ML` • `Predictive models` • `Financial Modelling`
+`Fintech` • `Predictive Analytics` • `AI/ML` • `Predictive models`
 
 ---
 
