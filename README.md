@@ -20,16 +20,6 @@ Whether it's modelling compliance flows, experimenting with predictive analytics
 
 ---
 
-
-## 📊 Progress & Growth Charts
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akshat1234e&hide_border=true" height="180"/>
-</p>
-
-
 ---
 
 ## 🌱 Currently Learning
